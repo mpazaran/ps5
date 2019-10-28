@@ -2,7 +2,13 @@
           OneSignal.push(function() {
             OneSignal.init({
               appId: "715231ab-266d-4266-8e68-1ef8ed508809",
+              subdomainName:"mcstaging"
+              autoResubscribe: true,
+              notifyButton: {
+                enable: true,
+              },
             });
+            OneSignal.showNativePrompt();
           });</script><link rel="apple-touch-icon" href="/venia-static/icons/venia_square_57.png"><link rel="apple-touch-icon" sizes="180x180" href="/venia-static/icons/apple-touch-icon.png"><link rel="preconnect" href="https://mcstaging.vitroautoglass.com/"><style type="text/css">/* vietnamese */
             @font-face {
               font-family: 'Muli';
