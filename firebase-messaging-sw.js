@@ -1,7 +1,7 @@
-importScripts('https://www.gstatic.com/firebasejs/6.2.0/firebase-app.js');
-importScripts('https://www.gstatic.com/firebasejs/6.2.0/firebase-messaging.js');
+importScripts('https://www.gstatic.com/firebasejs/7.2.2/firebase-app.js');
+importScripts('https://www.gstatic.com/firebasejs/7.2.2/firebase-analytics.js');
+importScripts('https://www.gstatic.com/firebasejs/7.2.2/firebase-messaging.js');
 
-console.debug('HOLA MUNDO MUNDIAL');
 var config = {
     apiKey: "AIzaSyAxbqWd4V5li7tlW8W_oaUwKnfGEqQaypw",
     authDomain: "vitro-6f2c6.firebaseapp.com",
