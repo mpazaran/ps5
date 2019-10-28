@@ -1,5 +1,5 @@
 /*!
- * @version v4.0.0-102-gcc6a19c3
+ * @version 6294c9e-dev
  * 
  */
 (window.webpackJsonp=window.webpackJsonp||[]).push([[23],{jhkW:function(n,i,r){(i=n.exports=r("PBB4")(!1)).push([n.i,".video-root-3OV {\n    font-size: 0;\n}\n\n.video-inner-gJ2 {\n    display: inline-block;\n    width: 100%;\n}\n\n.video-wrapper-3k0 {\n    overflow: hidden;\n    transform: translateZ(0px);\n}\n\n.video-container-xVK {\n    overflow: hidden;\n    padding-top: 56.25%;\n    position: relative;\n}\n\n.video-video-Oq- {\n    height: 100%;\n    left: 0;\n    position: absolute;\n    top: 0;\n    width: 100%;\n}\n",""]),i.locals={root:"video-root-3OV",inner:"video-inner-gJ2",wrapper:"video-wrapper-3k0",container:"video-container-xVK",video:"video-video-Oq-"}},k4Mo:function(n,i,r){"use strict"
