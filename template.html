@@ -9,26 +9,14 @@
 
         <title>Home Page - <%= STORE_NAME %></title>
 
-        <!-- The core Firebase JS SDK is always required and must be listed first -->
-        <script src="https://www.gstatic.com/firebasejs/7.2.2/firebase-analytics.js"></script>
-        <script src="https://www.gstatic.com/firebasejs/7.2.2/firebase-app.js"></script>
-        <script src="https://www.gstatic.com/firebasejs/7.2.2/firebase-messaging.js"></script>
-
+        <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
         <script>
-        // Your web app's Firebase configuration
-        var firebaseConfig = {
-            apiKey: "AIzaSyAxbqWd4V5li7tlW8W_oaUwKnfGEqQaypw",
-            authDomain: "vitro-6f2c6.firebaseapp.com",
-            databaseURL: "https://vitro-6f2c6.firebaseio.com",
-            projectId: "vitro-6f2c6",
-            storageBucket: "vitro-6f2c6.appspot.com",
-            messagingSenderId: "213692084493",
-            appId: "1:213692084493:web:01f2767e118bdc4728c044",
-            measurementId: "G-N4ZH75TB2B"
-        };
-        // Initialize Firebase
-        firebase.initializeApp(firebaseConfig);
-        firebase.messaging();
+          var OneSignal = window.OneSignal || [];
+          OneSignal.push(function() {
+            OneSignal.init({
+              appId: "715231ab-266d-4266-8e68-1ef8ed508809",
+            });
+          });
         </script>
 
         <!--
