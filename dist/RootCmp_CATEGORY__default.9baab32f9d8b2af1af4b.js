@@ -1,5 +1,5 @@
 /*!
- * @version f292585-dev
+ * @version 28b06eb-dev
  * 
  */
 (window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"2UPC":function(e,n,t){(n=e.exports=t("PBB4")(!1)).push([e.i,".category-root-XX- {\n    padding: 1rem;\n}\n\n.category-title-3H4 {\n    font-size: 1.5rem;\n    font-weight: 400;\n    padding: 0 0.5rem;\n}\n\n.category-pagination-3J2 {\n    position: relative;\n    bottom: 0;\n}\n\n.category-placeholder-1pM {\n    height: 100vh;\n}\n\n.category-headerButtons-7Xw {\n    display: flex;\n    justify-content: center;\n    padding-bottom: 1.5rem;\n}\n\n.category-filterButton-1jf {\n    padding: 0.5rem;\n    margin-left: 0.5rem;\n    margin-right: 0.5rem;\n    width: 9rem;\n    border: 1px solid black;\n    border-radius: 100px;\n    color: black;\n    outline: none;\n}\n\n.category-categoryTitle-3Ab {\n    color: rgb(var(--venia-text));\n    padding-bottom: 1.5rem;\n    font-size: 1.375rem;\n    font-weight: 300;\n    line-height: 1.375rem;\n    text-align: center;\n}\n",""]),n.locals={root:"category-root-XX-",title:"category-title-3H4",pagination:"category-pagination-3J2",placeholder:"category-placeholder-1pM",headerButtons:"category-headerButtons-7Xw",filterButton:"category-filterButton-1jf",categoryTitle:"category-categoryTitle-3Ab"}},"7n83":function(e,n,t){var a=t("d1CT")
